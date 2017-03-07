@@ -5,6 +5,7 @@ target/
 .metadata
 .gradle
 classes
+modules
 External Plug-in Libraries/
 org.eclipse.jdt.core.prefs
 **/node_modules
